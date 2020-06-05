@@ -9,7 +9,7 @@
 ​		②我的第二家公司是K公司，它的Logo颜色是**红色[#df0522]**,这家公司教会了我人生中重要的一个东西：**理财**。红色：激情，付出的努力不亚于任何人！
 
 ​		③利用光的三原色将其合成交集：**Purple[#df51cf]**,交集的紫色表示O公司和K公司给予的的财富。
-(img src="https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/Logo.png")
+<img src="https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/Logo.png" style="zoom:50%;"/>
 
 ​		④Logo采用数学中的交集 ，我成长的既属于集合O公司，又属于集合K公司。感谢给予。
 
