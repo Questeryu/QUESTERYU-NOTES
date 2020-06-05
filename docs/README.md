@@ -10,7 +10,7 @@
 
 ​		③利用光的三原色将其合成交集：**Purple[#df51cf]**,交集的紫色表示O公司和K公司给予的的财富。
 
-![image](https://github.com/Questeryu/QUESTERYU-NOTES/tree/master/docs/Image\Logo.png）
+![image](https://github.com/Questeryu/QUESTERYU-NOTES/tree/master/docs/Image\Logo.png" style="zoom:50%;" /）
 
 ​		④Logo采用数学中的交集 ，我成长的既属于集合O公司，又属于集合K公司。感谢给予。
 
