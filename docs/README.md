@@ -50,7 +50,7 @@
 
 > “人之所以一直无法改变，是因为早已认定自己无法改变，是因为就算日常生活中有不如意，但是保持现状能更轻松更安心，你的不幸是你自己选择的。”——《被讨厌的勇气》 
 
-<img src="F:\myblogs\docs\Image\beitaoyan.jpg" alt="beitaoyan" style="zoom: 67%;" />
+<img src="https://github.com/Questeryu/QUESTERYU-NOTES/blob/master/docs/Image/beitaoyan.jpg" alt="beitaoyan" style="zoom: 67%;" />
 
 ​		在很早以前我一直想能够开个公司（多好啊!),当然我的初心是：<u>**工作是给人们带来幸福的，创造性的，推动人类进步的**</u>。时至今日依然没有忘记最初的想法，当你有这样的意识的时候，随着时间的流逝，你在自己今后不论做什么，都会潜意识的向你最初的想法靠近，不断的去寻找构成自己最初梦想的事物们不断的去刷新自己的认知。
 
@@ -114,7 +114,7 @@
 
 ​		七年前的今天我坐绿皮火车（硬座）穿过慢慢长夜来到了上海，如今回忆起来历历在目啊！我很庆幸毕业（2013年6月10日）的时候来到上海，住在了那个叫做五角场的地方，那里有复旦大学，有财经大学，有同济大学，那里，来来往往，形形色色的人对我的影响，依然不能忘却。就像海明威在《流动的盛宴》一书开篇说：“如果你足够幸运，年轻时在巴黎生活过，巴黎会一生都跟随你，因为巴黎是一场流动的盛宴”。曾经我住的地方，每天看着来来往往的人，无论你去哪里旅行，这些东西，一直都会跟随着你，就如同你所学到的东西，一辈子都会跟随着你。
 
-![夜](F:\myblogs\docs\Image\夜.jpg)
+![夜](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/夜.jpg)
 
 ​		虽然没有去过国外，但我很庆幸能来到上海这座应该是说国际大都市？我见识到她的残酷，也见识到了她的温柔。而这座城市能带给我的很多的是眼界和想法，以及改变我的那些人。很感谢我遇见的各位！也感谢一直以来的照顾！
 
@@ -186,7 +186,7 @@
 
 ​		不是说我找不到工作，只是我对上眼的，公司不要我；而公司看上我了，我看不上；也曾阴差阳错了工作了一个月！找工作跟谈恋爱是一样，我喜欢你，你不喜欢我；我不喜欢你，你喜欢我；有时开始喜欢但只是喜欢！房子也到期了，是我的几个同学租车过来帮我搬家到他们宿舍（寄居），很感激他们的。
 
-![火车票](F:\myblogs\docs\Image\火车票.jpg)
+![火车票](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/火车票.jpg)
 
 [^图片]: （2017年9~10月失业去上海；Thinks 邓 张 袁        在邓宿舍       2017，11，12）
 
@@ -206,7 +206,7 @@
 
 ​		电影《飞跃疯人院》中，印象最深的就是这句“去TMD，我总算试过了，起码我试过了”。当麦克莫菲和同伴们打赌能搬动饮水台子砸开窗子逃走，他搓了搓手，抱起了那个台子，但是他没有搬动，但是他说了一句很经典的话**“至少我试过了”**。大多数在精神病院的患者都是自愿呆在里面的，没有想要出去的愿望。**人一旦被控制住了思想，比捆绑住了全身还要可怕。**我们又何尝不是那群自愿呆在精神病院的大多数！
 
-![](F:\myblogs\docs\Image\飞越疯人院.jpg)
+![](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/飞越疯人院.jpg)
 
 富兰克林说过：“有的人25岁就已经死了，只是等着75岁埋葬”
 
@@ -216,11 +216,11 @@
 
 > ​		举例来说：在早期也许股票交易员是很多人梦寐以求的职业，随着计算机的出现：据MIT Tech Review  报道称，2000年顶峰时期，高盛在纽约总部的美国现金股票交易柜台就雇佣了600名交易员，但时至如今，这里只剩下两名股票交易员“留守空房”！（图片源于网络，侵删）
 >
-> ![1526193690438038](F:\myblogs\docs\Image\交易大厅.jpg)
+> ![1526193690438038](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/交易大厅.jpg)
 
 ​		一个比较离我们近的ETC（ Electronic Toll Collection )，不停车收费系统。看看我们早期在收费站口，每个车道都会有一名收费员，随着ETC的出现，原本六车道的需要6人，而现在只需要1人，ETC的出现至少摧毁了一个行业——假牌照。同时也让许多人失去了所谓的稳定工作。
 
-![timg](F:\myblogs\docs\Image\ETC.jpg)
+![timg](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/ETC.jpg)
 
 ​		还比如说我们现在移动支付的出现，使得那些跟不上时代的小偷慢慢的被淘汰，而剩下了那些变成了更为”高明“的手法”电信诈骗“。在上海我已经很久没有用现金支付了，即使有人用现金，被支付方会说扫码吧！有红包！
 
@@ -238,7 +238,7 @@
 
 ​		复利是个好东西，能让原来不可能的事情变成可能！每个人对复利这个词认知程度不同，导致的结果也大部一样，甚至完全相反，复利是什么呢？（个人观点）如下图所示：
 
-<img src="F:\myblogs\docs\Image\捕获.JPG" style="zoom: 67%;" />
+<img src="https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/捕获.JPG" style="zoom: 67%;" />
 
 ​		正向回报：我暂时把它作为那种主动收入的人，（如：日复一日的上班。定时给你维持生活需要的工资）
 
@@ -287,21 +287,21 @@
 
 2021年元旦|日本？（有生之年一定要去一次日本）
 
-![上海2](F:\myblogs\docs\Image\上海2.jpg)
+![上海2](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/上海2.jpg)
 
 ​		有机会一定要出去看看，穿梭在闹事，感受别样的风土人情，有时候不是你不够努力，只是因为自己见识太少了，没有感官上的冲击你很难体会到的，这与理性无关，就像我的几位朋友去了韩国、日本、等国家，回来给我讲他的所见所闻，我只能想象那个画面。还有我们在电视上面看赛车，足球赛！当你有机会一定要去现场站在台上感受一下，那种感觉是在电视上面感受不来的！
 
-<img src="F:\myblogs\docs\Image\P60611-120531.jpg" style="zoom:80%;" />
+<img src="https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/P60611-120531.jpg" style="zoom:80%;" />
 
-![falali](F:\myblogs\docs\Image\falali.jpg)
+![falali](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/falali.jpg)
 
 ​		我非常喜欢极致的自然环境，大海也好，沙漠也好，去一个陌生的地方，更多的是给你感官上的冲击（震撼），它能让你更好的去认识自己，洗涮自己肮脏的心灵。我是一个物质需求比较底的人，但是在涉及到生命和安全方面的东西我会选择最好的那一款！记得以前带着自己的帐篷去了一座海岛，凌晨4点时候外面暴雨打在我的帐篷上面，幸运的是那么大的暴雨，我睡在里面一点事情都没有！昨天还是有二十几个帐篷在扎营，第二天起来拉开帐篷发现只剩下2顶。
 
-![渔山岛](F:\myblogs\docs\Image\渔山岛.jpg)
+![渔山岛](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/渔山岛.jpg)
 
 ​		面对眼前的风景，你也许被它那一瞬间所感动，这样的照片是最美的，同时它也是记录你阅历及审美观和对世界的认知。大自然蕴藏着无数的能量，等待我们去发现那些感动！人们总是喜欢去征服大自然，来彰显自己的伟大，当你在飞机上面俯瞰大地，人类真的太渺小了，我们应该学会敬畏大自然，感谢大自然的给予。放慢自己的脚步，回头看看自己一路走来，无论生活给予了我什么，那都是一种心灵的历练与享受。
 
-![宏村图片](F:\myblogs\docs\Image\宏村图片.jpg)
+![宏村图片](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/宏村图片.jpg)
 
 ​		其实很想去国外看看，鉴于语言的不通，当然这是一方面，更重要的是了解他们国家or当地的文化。很多在当地人看来是习以为常的事情，但是我们总是觉得不可思议！这些美好or反差发自内心感受是旅行中最重要的，它能冲破你的思维局限，原来还有这么美好的东西。和当地交流他们的生活，试着去吃他们当地的食物，有时候那种内心的喜悦让你就像一个当地人一样游走在大街小巷，和路上的说话，听听他们的故事！
 
@@ -315,17 +315,17 @@
 
 ​		我相信跑步到了35KM的时候，当你又累又饿的时候，突然拿到路边群众给你的西瓜，那种食物的味道真的很好很好，突然吃下去你有种莫名的感动，一瞬间阳光照在你内心最柔软的地方，跑着跑着前面的路模糊了...  它能带个给你的能量远远超过食物本身！ 后来回来再去买，再也体会不到那个味道了。还有那种冲过终点后的感觉太享受了，这种发自内心的东西往往蕴含着更大的能量。所以每次做好吃的，我都会倾注自己的专注去做，迷恋那食材与火候之间的微妙变化，淡淡品尝食物中独有的那种刺激到你味蕾的魔力。做饭对我来说是个艺术创作的过程，我享受这个过程，因为i它发自我的内心。.
 
-<img src="F:\myblogs\docs\Image\马拉松.jpg" alt="马拉松" style="zoom:32%;" />
+<img src="https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/马拉松.jpg" alt="马拉松" style="zoom:32%;" />
 
 ​		当去一个城市跑步时，你会遇到不同职业而又同一兴趣爱好的人，以兴趣为话题展开聊天，后来又可能会称为你的朋友。你可以在他们那里知道这个城市有那些好的地方和美食，同他们聊天进而来感受他们的生活方式；跑步前出发前应该对这个城市的历史应该有一定的了解，然后再跑步前一天去，可以美美的玩一天。有些东西你通过书本上面可以获得，但是有些东西你必须去做你才能体会的到。到底是先读书，然后再去旅行，还是先旅行再去读书呢？我想这二者一个都不能少。
 
 对了还有骑行，哈哈 貌似很久没有骑行了
 
-![骑行](F:\myblogs\docs\Image\骑行.jpg)
+![骑行](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/骑行.jpg)
 
 洗车 哈哈...
 
-![洗车](F:\myblogs\docs\Image\洗车.jpg)
+![洗车](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/洗车.jpg)
 
 ​		还有我喜欢一个人去超市，看货架上形形色色的货物，货架上面的物品对我来说的就是一些艺术品，当你你是发自内心去做一件事情还是欣赏一处美景，给你心灵上的体验是美好的，这些美好的事物能够洗涤你的内心。对于我来说跑步和旅行真是一个不错的搭档和选择。让我再跑步中看到了美好的东西，也让我再里面找到那种发自内心坚永不言弃的精神，这个玩意儿一定程度也塑造了我。
 
@@ -354,13 +354,13 @@
 
 ​		5G技术到底用什么用呢？暂且不说，回顾历史，我们站在现在这个时间点回看当时4G技术的出现前人对我们现在的预测！It's an interesting thing. 4G技术商用时间大概在2013年——2014年，我们看看当时的人们怎么预测我们的现在。                        
 
-![4Gyingyong](F:\myblogs\docs\Image\4Gyingyong.jpg)
+![4Gyingyong](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/4Gyingyong.jpg)
 
-![4Ghu](F:\myblogs\docs\Image\4Ghu.JPG)
+![4Ghu](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/4Ghu.JPG)
 
-![4G技术](F:\myblogs\docs\Image\4G技术.JPG)
+![4G技术](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/4G技术.JPG)
 
-![4G的优势](F:\myblogs\docs\Image\4G的优势.JPG)
+![4G的优势](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/4G的优势.JPG)
 
 参见资料：4G有什么用？让我们回到2012.1-2014.1，看看那时https://tieba.baidu.com/p/6325860845?red_tag=3286795650
 
@@ -389,11 +389,11 @@
 
 ​		As a 技术人员，不曾有过失败是不完美的（就如同我的大学老师说：“不挂科的大学是不完美的”哈哈），正是因为那些完美的失败，每失败一个就会离成功进一步，不管多么出色的**「产品」**（Product） or **「设计」**（Design），这些成功背后都有着各种各样千百尝试 失败； 尝试，失败；在尝试....，这些堆积如山的失败和技术开发者不求任何回报的去努力，他们知道自己的能力不足，每天在尝试，在学习，在晚上睡觉的时候都在琢磨；正是日复一日如此，他们相信有一天会成功的，他们就是这样不断地尝试着 ？为什么呢？因为这是一件很有趣的事情，一件给人类带来有意义的事情。通过自己的技术让社会受益，在技术者的心中没有比这更好的事情了，看着别人使用自己的产品，心里默默自豪地会说：“那是我设计的。”
 
-![图纸](F:\myblogs\docs\Image\图纸.JPG)
+![图纸](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/图纸.JPG)
 
 图纸除要符合最基本的准则，还要把它变成一件艺术品来欣赏（我的设计图纸 哈哈）写代码也是一门艺术。
 
-![66666](F:\myblogs\docs\Image\66666.jpg)
+![66666](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/66666.jpg)
 
 [计算机鼻祖-Donald Knuth（高纳德） 的传奇]  (https://www.cnblogs.com/blfbuaa/p/6801446.html)
 
@@ -438,7 +438,7 @@
 >
 > **简单地说就是，只有占领头脑，才会占有市场。**
 
-![Apple](F:\myblogs\docs\Image\Apple.jpg)
+![Apple](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/Apple.jpg)
 
 Here's to the crazy ones. 
 The misfits. 
@@ -516,13 +516,13 @@ change the world, are the ones who do.
 >
 > ​		著名的行为经济学家丹·艾瑞（杜克大学教授），他研究我们的大脑如何经常愚弄我们自己。人类的进化依赖于视觉，人脑的大部分都致力于处理视觉信息，但是我们的眼睛经常会误导我们，如果你不相信，请看下面的图片（哪个桌子会更长，是左边窄的桌子，还是右边宽的桌子？）
 >
-> <img src="F:\myblogs\docs\Image\table.png" alt="table" style="zoom:67%;" />
+> <img src="https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/table.png" alt="table" style="zoom:67%;" />
 >
 > 大部分人肯定会说是左边窄的桌子，如果你也是相同的答案，那么你就错了，事实上两张桌子的长度是一样的（不信？你可以拿尺子试一下）
 >
 > 如果你还是不信，OK，那我们再来一次：
 >
-> <img src="F:\myblogs\docs\Image\table.png" alt="table" style="zoom:67%;" />
+> <img src="https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/table.png" alt="table" style="zoom:67%;" />
 >
 > ​			同样还是上面的那个图片，哪个更长呢？你甚至敢于赌一把，你已经知道答案了，但是你的大脑还是在继续欺骗你（注意：是继续欺骗你），你就是觉的左边的桌子看起来更长，你的眼睛所看到的跟不上你大脑所想的，所以我们的直觉一直在愚弄我们，利用不断重复，事前预测，始终不变的方式。
 >
@@ -540,7 +540,7 @@ https://baike.baidu.com/item/%E8%B0%A2%E6%B3%BC%E5%BE%B7%E6%A1%8C%E9%9D%A2/56992
 
 **Q：请问下面两幅图，平行线部分那个更长呢？**
 
-![视觉错觉箭头](F:\myblogs\docs\Image\视觉错觉箭头.JPG)
+![视觉错觉箭头](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/视觉错觉箭头.JPG)
 
 ​		根据上面的例子你的认知又向前迈进一步了，通过上面的桌子的例子你已经学会判断了，这时你开始判断（两种答案）：①左边的长；②两边的一样长。（我想这时候选择②的概率应该大于①）。因为桌子的例子，你可能明白了这就是**视觉错觉**，你认为你的选择真的是正确的吗？
 
@@ -550,7 +550,7 @@ https://baike.baidu.com/item/%E8%B0%A2%E6%B3%BC%E5%BE%B7%E6%A1%8C%E9%9D%A2/56992
 
 **答案：**
 
-![带尺寸箭头](F:\myblogs\docs\Image\带尺寸箭头.JPG)
+![带尺寸箭头](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/带尺寸箭头.JPG)
 
 你做对了吗？是不是感觉我又欺骗了你？
 
@@ -654,7 +654,7 @@ https://baike.baidu.com/item/%E8%B0%A2%E6%B3%BC%E5%BE%B7%E6%A1%8C%E9%9D%A2/56992
 
 ​		那些只是靠自己感觉来买股票，我曾经就是这么干的，现在回头来看简直是在赌博，哈哈  就像背着炸药穿过火场。人们不喜欢深度思考，因为思考是一件痛苦的事情，就像锻炼身体一样，只有扛过肌肉酸痛的时期，你才会获得Power。有多少人知道这个估值的玩意呢？什么是DCF折现法？有多少人知道呢？わからない。嘻嘻...
 
-<img src="F:\myblogs\docs\Image\股票估值方法.jpg" alt="股票估值方法" style="zoom:33%;" />
+<img src="https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/股票估值方法.jpg" alt="股票估值方法" style="zoom:33%;" />
 
 ​		有些事物随着时间的流逝，一些事情终将会流逝，最后被人遗忘；而有些事物随着时间流逝，经久不衰，成为被人传唱的经典。其实我本人根本不想写这些关于金钱的事情，当然不是我不喜欢，我是喜欢的不要不要的;随时间流逝，它终将会被淹没在历史的潮流中......	
 
@@ -668,11 +668,11 @@ https://baike.baidu.com/item/%E8%B0%A2%E6%B3%BC%E5%BE%B7%E6%A1%8C%E9%9D%A2/56992
 >
 > 为了证明了他们的假设，自此之后，马歇尔和沃伦开始更多的试验，之后再用抗生素进行治疗，马歇尔走进实验室亲自吞下了含大量幽门螺杆菌的培养液，随后的胃镜检查发现，马歇尔的胃黏膜上长满了细长条的、弯弯曲曲的细菌——正是幽门螺杆菌。
 >
-> <img src="F:\myblogs\docs\Image\幽门螺杆菌.jpg" alt="幽门螺杆菌" style="zoom: 50%;" />
+> <img src="https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/幽门螺杆菌.jpg" alt="幽门螺杆菌" style="zoom: 50%;" />
 >
 > 最终他验证了自己的假设，并治愈了自己！后来获得诺贝尔生理学或医学奖，诺贝尔生理奖没见过，但是见过物理奖，大概就这个样子（爱因斯坦）
 >
-> ![](F:\myblogs\docs\Image\诺贝尔物理奖.jpg)
+> ![](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/\诺贝尔物理奖.jpg)
 
 ------
 
@@ -700,7 +700,7 @@ https://baike.baidu.com/item/%E8%B0%A2%E6%B3%BC%E5%BE%B7%E6%A1%8C%E9%9D%A2/56992
 
 ~~定投策略本身是正确的，不想谈钱。至于我们去投资什么，那是自己的**选择**。事实上，这个策略不仅可以应用在投资领域，同样也可以应用我们人生中的各个领域，如：学习、工作，生活。~~
 
-<img src="F:\myblogs\docs\Image\定投.jpg" alt="定投" style="zoom:50%;" />
+<img src="https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/定投.jpg" alt="定投" style="zoom:50%;" />
 
 ------
 
@@ -760,7 +760,7 @@ https://baike.baidu.com/item/%E8%B0%A2%E6%B3%BC%E5%BE%B7%E6%A1%8C%E9%9D%A2/56992
 
 ​		记得在自己写字桌旁边贴一张纸，记录自己想要做的事情或者是计划做一件事情。脑子会忘记的
 
-![墙纸](F:\myblogs\docs\Image\墙纸.jpg)
+![墙纸](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/墙纸.jpg)
 
 ​		
 
@@ -795,7 +795,7 @@ for i in range(500):
 
 结果如下：
 
-![词频统计](F:\myblogs\docs\Image\词频统计.JPG)
+![词频统计](https://github.com/QUESTERYU-NOTES/blob/master/docs/Image/词频统计.JPG)
 
 ​		当你发自内心地去做一件事情，那是一件很开心地事情。甚至在你醒来地时候都想要去做。之前非常喜欢编程这玩意于是开始学习Python 不知不觉写了一个初学者马马虎虎的笔记：
 
